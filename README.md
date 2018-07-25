@@ -1,24 +1,13 @@
-# README
+## UCLA SOC 2 2018
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+    ---
 
-Things you may want to cover:
+    #### Ruby version 2.3.7
+    #### Rails version 5.2.0
 
-* Ruby version
+    ### L.A. Adventure App
 
-* System dependencies
+    A bucket list for Los Angeles. This is a list of all the things I'd like to do in case I moved out of Los Angeles and never got to return. All the things I think about doing all the time but haven't made time to do yet.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+    *Made by* **Vicente Speroni**
+    On 7-25-2018
